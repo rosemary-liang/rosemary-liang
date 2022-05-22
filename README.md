@@ -1,16 +1,24 @@
-### Hi there 👋
+![alt text](/banner.jpg)
 
-<!--
-**rosemary-liu/rosemary-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Rosemary 👋
+Full Stack Software Engineer (former accountant) with a deep passion for problem solving, process improvements, and continuous learning.
 
-Here are some ideas to get you started:
+I love to learn everything and anything about coding! :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mailbox: Let's Connect!
+[Resume](https://drive.google.com/file/d/1R6A21XvE4a8QAZZrC36wpnocIUJ2lgCz/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rosemaryliu) |  [Email](mailto:rliu18@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemary-liu&show_icons=true&theme=material-palenight&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+## :desktop_computer: Tech Stack
+
+* JavaScript | React.js | Node.js | Express.js | PostgreSQL | HTML5 | CSS3
+* Open to learn any new technologies
+
+***
+## :sunny: Fun Facts
+
+* I love to cook :woman_cook:
+* I love dogs :dog:
+* I enjoy playing basketball :basketball:
