@@ -21,4 +21,4 @@ I love to learn everything and anything about coding! :computer:
 
 * I love to cook :woman_cook:
 * I love dogs :dog:
-* I enjoy playing basketball :basketball:
+* I play basketball :basketball:
