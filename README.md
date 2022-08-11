@@ -6,9 +6,9 @@ Full Stack Software Engineer (former accountant) with a deep passion for problem
 I love to learn everything and anything about coding! :computer:
 
 ## :mailbox: Let's Connect!
-[Resume](https://drive.google.com/file/d/1R6A21XvE4a8QAZZrC36wpnocIUJ2lgCz/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rosemaryliu) |  [Email](mailto:rliu18@gmail.com)
+[Resume](https://drive.google.com/file/d/1R6A21XvE4a8QAZZrC36wpnocIUJ2lgCz/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rosemaryliang18) |  [Email](mailto:rosemaryliang18@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemary-liu&show_icons=true&theme=material-palenight&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemary-liang&show_icons=true&theme=material-palenight&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 ## :desktop_computer: Tech Stack
