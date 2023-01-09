@@ -17,6 +17,7 @@ I love to learn everything and anything about coding! :computer:
 ## :desktop_computer: Tech Stack
 
 - JavaScript | React.js | Node.js | Express.js | PostgreSQL | HTML5 | CSS3
+- Swift
 - Open to learning any new technologies
 
 ---
